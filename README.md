@@ -2,6 +2,6 @@
 This repo contains my Assignments and projects for INFO7374 Neural Nets and AI
 Teammates
 
-Rohith nagabhyrava
-Rama Krishna Kommineni
+Rohith Nagabhyrava,
+Rama Krishna Kommineni,
 Umair Akthar
